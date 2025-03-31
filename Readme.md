@@ -2,6 +2,8 @@
 
 Welcome to Altruistiq! Thank you very much for taking the time to do this task. 🙏
 
+Small test to see if the PR is working
+
 ## Objective
 
 In this task you'll be debugging an application that consists of a backend and a frontend. 3 bugs have been reported that you need to fix.
